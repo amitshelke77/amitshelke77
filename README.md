@@ -1,38 +1,49 @@
-# 🚀 Amit Shelke | Founder of Automora  
+# Hi 👋 I’m Amit Shelke  
+Founder of **Automora HQ** | Python & AI Enthusiast | Business Growth Systems
 
-### **Python Developer | Trading Bot & Stock Prediction Enthusiast | Automation & AI**  
+I build:
+- AI-driven business systems
+- Lead conversion frameworks
+- AI automation scripts
+- Trading bot & prediction engines
 
-Welcome to my GitHub! I'm passionate about **automating stock trading, AI-based predictions, and Python scripting**. Here, you’ll find various projects related to **trading bots, financial automation, and AI-driven stock predictions**.
+💡 Right now, I help founders and small businesses improve:
+• lead conversion  
+• sales flow  
+• automation logic  
+• business growth systems
 
----
+🧠 Not tools. Not templates. _Done-for-you growth systems_
 
-## 🌟 About Automora  
-Automora is a brand focused on **stock market automation, AI-driven trading bots, and financial prediction models**.  
-
-💡 **What I Offer:**  
-- 🔥 **Trading Bots** – Automate stock & crypto trading  
-- 📈 **Stock Prediction AI** – Predict future prices with ML  
-- 🤖 **Automation Scripts** – Custom Python tools  
-- 🛠 **Custom AI Projects** – Personalized AI solutions  
-
----
-
-## 📌 Services & Store  
-- 📦 **[Gumroad – Get My Scripts](https://automora.gumroad.com/subscribe)**  
-- 🎯 **[Fiverr – Hire Me for Custom Scripts](https://www.fiverr.com/s/jjGqeXw)**  
-- 🔗 **[Automora LinkedIn](https://www.linkedin.com/in/automora-hq-298156294)**  
-- 🔗 **[My LinkedIn](https://www.linkedin.com/in/amit-shelke-011277135)**  
+📩 Connect with me:
+LinkedIn: https://www.linkedin.com/in/amit-shelke-011277135  
+Email: amitshelke77@gmail.com  
+UPI: (Your UPI ID)
 
 ---
 
-## 📊 Featured Projects  
-🔹 **Coming soon... Stay tuned!** 🚀  
+## 🚀 Services I Deliver
+### ⚡ AI Business Growth System
+- Lead conversion systems  
+- Sales systems & automation logic  
+- Growth infrastructure assets  
+- Delivered same day (digital)  
+- No tools, no calls, no setup
+
+### 🐍 Python Automation & Trading Scripts
+- Stock prediction models  
+- Trading bots  
+- Financial automation utilities
 
 ---
 
-## 📫 Connect with Me  
-💻 **GitHub:** [@amitShelke77](https://github.com/amitshelke77)  
-📩 **Email:** amitshelke77@gmail.com  
-🌍 **Website (Coming Soon):** automora.com  
+## 📌 Featured Projects
+- **nse-stock-tracker** — Python stock price tracking script  
+- **Automora Website** — Business landing page (in progress)  
+- **Growth System Samples** — (Add your first demo here)
 
-🚀 **Follow for more automation & AI projects!**  
+---
+
+## 📬 How to Contact
+linkedin.com/in/amit-shelke-011277135  
+amitshelke77@gmail.com
