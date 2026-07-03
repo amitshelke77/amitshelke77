@@ -1,49 +1,249 @@
-# Hi 👋 I’m Amit Shelke  
-Founder of **Automora HQ** | Python & AI Enthusiast | Business Growth Systems
+# Hi there 👋 I'm Amit Shelke
 
-I build:
-- AI-driven business systems
-- Lead conversion frameworks
-- AI automation scripts
-- Trading bot & prediction engines
+## Founder & CEO — Automora HQ
 
-💡 Right now, I help founders and small businesses improve:
-• lead conversion  
-• sales flow  
-• automation logic  
-• business growth systems
-
-🧠 Not tools. Not templates. _Done-for-you growth systems_
-
-📩 Connect with me:
-LinkedIn: https://www.linkedin.com/in/amit-shelke-011277135  
-Email: amitshelke77@gmail.com  
-UPI: (Your UPI ID)
+Building AI-powered SaaS products, Business Automation Systems, and Quantitative Research Platforms.
 
 ---
 
-## 🚀 Services I Deliver
-### ⚡ AI Business Growth System
-- Lead conversion systems  
-- Sales systems & automation logic  
-- Growth infrastructure assets  
-- Delivered same day (digital)  
-- No tools, no calls, no setup
+## 🚀 About Me
 
-### 🐍 Python Automation & Trading Scripts
-- Stock prediction models  
-- Trading bots  
-- Financial automation utilities
+I'm a Python developer and AI systems builder focused on solving real business problems through automation and intelligent software.
 
----
+Currently building products under **Automora HQ**, with a focus on:
 
-## 📌 Featured Projects
-- **nse-stock-tracker** — Python stock price tracking script  
-- **Automora Website** — Business landing page (in progress)  
-- **Growth System Samples** — (Add your first demo here)
+- 🤖 Artificial Intelligence
+- 📄 Document Intelligence
+- 📈 Quantitative Finance
+- 💼 Business Automation
+- 🔍 B2B Lead Generation
+- ⚙️ Workflow Automation
+
+My goal is simple:
+
+> Build software that saves businesses time, increases revenue, and automates repetitive work.
 
 ---
 
-## 📬 How to Contact
-linkedin.com/in/amit-shelke-011277135  
+# 🏢 Automora HQ
+
+Automora HQ is an AI software company focused on building practical business tools powered by Artificial Intelligence.
+
+### Areas we're building in
+
+- AI SaaS Products
+- Business Automation
+- AI Document Intelligence
+- Lead Generation Systems
+- Trading & Quantitative Research
+- Workflow Automation
+- Enterprise AI Solutions
+
+---
+
+# 🚀 Flagship Projects
+
+## 🧠 LeadPilotAI
+
+AI-powered B2B Lead Generation Platform
+
+Features include:
+
+- Company Discovery
+- Intelligent Email Extraction
+- Contact Discovery
+- Evidence-based Data Merging
+- Business Profile Enrichment
+- Multi-source Website Analysis
+- Export to CSV / Excel
+
+Status:
+
+🚧 Active Development
+
+---
+
+## 📄 DocuMindAI
+
+Enterprise AI Document Intelligence Platform
+
+Features:
+
+- OCR
+- AI Summarization
+- Semantic Search
+- Chat with PDFs
+- RAG Pipeline
+- Contract Extraction
+- Invoice Processing
+- Table Extraction
+- Local LLM Support (Ollama)
+- Gemini Integration
+
+Status:
+
+🚧 Active Development
+
+---
+
+## 📈 TradeLens AI
+
+AI-powered Market Intelligence Platform
+
+Features:
+
+- Market Analysis
+- Technical Indicators
+- AI Signals
+- Trading Dashboard
+
+Status:
+
+🔬 Research & Development
+
+---
+
+## 📊 AuraQuant Platform
+
+Institutional-grade Quantitative Research Platform
+
+Research Areas:
+
+- W.D. Gann
+- Time Cycles
+- Statistical Models
+- Machine Learning
+- Backtesting
+- Portfolio Analytics
+
+Status:
+
+🔬 Research
+
+---
+
+## 🤖 AI Chart Fusion
+
+AI-powered chart recognition and technical analysis.
+
+Status:
+
+🛠 Prototype
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- Python
+- SQL
+- JavaScript (Learning)
+
+### AI
+
+- Ollama
+- Google Gemini
+- OpenAI
+- OpenRouter
+- Anthropic Claude
+
+### Frameworks
+
+- FastAPI
+- Streamlit
+- Flask
+
+### AI & Data
+
+- ChromaDB
+- FAISS
+- Sentence Transformers
+- OCR
+- RAG
+- Vector Search
+
+### Databases
+
+- SQLite
+- PostgreSQL
+
+### Dev Tools
+
+- Git
+- GitHub
+- VS Code
+- Pytest
+
+---
+
+# 📌 Current Focus
+
+Currently building:
+
+- 🚀 LeadPilotAI
+- 📄 DocuMindAI
+- 📈 TradeLens AI
+- 📊 AuraQuant
+
+while growing **Automora HQ** into an AI software company.
+
+---
+
+# 🎯 Mission
+
+Build software that:
+
+- Saves businesses time
+- Automates repetitive work
+- Improves decision making
+- Makes AI practical for everyday businesses
+
+---
+
+# 📈 GitHub Activity
+
+I believe in:
+
+- Clean Architecture
+- Test Driven Development
+- Documentation First
+- Milestone-based Development
+- Continuous Improvement
+
+Every major feature is:
+
+- Documented
+- Tested
+- Version Controlled
+- Reviewed
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email
+
 amitshelke77@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/amit-shelke-011277135
+
+🌐 Website
+
+Coming Soon...
+
+🏢 Company
+
+Automora HQ
+
+---
+
+# 💡 Fun Fact
+
+I enjoy building complete AI products from idea to production, combining software engineering, automation, and business strategy.
+
+---
+
+⭐ Thanks for visiting my profile!
